@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "markdown-it": "^14.2.0"
+    "markdown-it": "^14.3.1"
   }
 }
